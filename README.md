@@ -14,15 +14,12 @@
 ### About
 
 Final-year Electronics & Telecommunication student at JSPM RSCOE, Pune. I like building things that cross the hardware/software boundary: ESP32 and RF systems, LiFi, REST APIs, full-stack apps and computer vision tools. 14+ projects so far.
-
 I also run two businesses and a photo/video practice, so I'm used to owning work from idea to delivery.
-
 **AIR 17**, National Entrepreneurship Challenge, IIT Bombay (1,000+ colleges).
 
 ### Now
 
 - Final-year project: **Adaptive LiFi–WiFi seamless handover** on dual ESP32
-- Learning **AUTOSAR**, **MISRA-C** and **ISO 26262** basics
 - Building **Jarvis Journal**, an AI-powered life journaling app
 - Looking for AI / data engineering and embedded roles
 
